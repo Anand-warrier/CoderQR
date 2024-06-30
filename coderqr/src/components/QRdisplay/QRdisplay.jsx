@@ -47,7 +47,6 @@ function QRdisplay({ data }) {
   const [format, setFormat] = useState("PNG");
   const onMenuClick = () => {
     format === "PNG" ? setFormat("SVG") : setFormat("PNG");
-    console.log(format);
   };
 
   const startDownload = () => {

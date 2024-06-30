@@ -8,13 +8,13 @@ import {
   Divider,
   Checkbox,
   ColorPicker,
-  message,
   Upload,
 } from "antd";
-import QRdisplay from "../QRdisplay/QRdisplay";
+
 
 function QRSettings({ setData }) {
-  const [ipval, setIpval] = useState(""); //input field
+  //input field
+  const [ipval, setIpval] = useState(""); 
   const inChange = (e) => {
     setIpval(e.target.value);
   };
