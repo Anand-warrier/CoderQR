@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/CoderQR/static/css/main.63308658.css",
-    "main.js": "/CoderQR/static/js/main.c0706f62.js",
+    "main.js": "/CoderQR/static/js/main.71661368.js",
     "index.html": "/CoderQR/index.html",
     "main.63308658.css.map": "/CoderQR/static/css/main.63308658.css.map",
-    "main.c0706f62.js.map": "/CoderQR/static/js/main.c0706f62.js.map"
+    "main.71661368.js.map": "/CoderQR/static/js/main.71661368.js.map"
   },
   "entrypoints": [
     "static/css/main.63308658.css",
-    "static/js/main.c0706f62.js"
+    "static/js/main.71661368.js"
   ]
 }
