@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anand-warrier/CoderQR/static/css/main.63308658.css",
+    "main.js": "/Anand-warrier/CoderQR/static/js/main.c0706f62.js",
+    "index.html": "/Anand-warrier/CoderQR/index.html",
+    "main.63308658.css.map": "/Anand-warrier/CoderQR/static/css/main.63308658.css.map",
+    "main.c0706f62.js.map": "/Anand-warrier/CoderQR/static/js/main.c0706f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63308658.css",
+    "static/js/main.c0706f62.js"
+  ]
+}
