@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
+  flex-grow: 1;
+  background-color: #ffffff;
+  border-right: 1px dashed #695e5ea1;
+  padding: 0.5em;
+}
+.normalSpan {
+  margin-bottom: 0.5em;
+}
+.fileUplaod {
+  display: flex;
+  flex-direction: column;
+  min-height: 7em;
+}
